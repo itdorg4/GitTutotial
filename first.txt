@@ -1,2 +1,4 @@
 Welcome to ITD
 Good Morning!!
+
+Today is our 2nd day on Git
